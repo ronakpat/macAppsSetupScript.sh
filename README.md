@@ -5,3 +5,19 @@
 	# - Installs Mac App store applications 
 	# - Dowloads Applications from the web on Desktop.
 
+# Applications list
+	# brew package manager
+	# wget
+	# mas - mac app store from command line
+	# evernote
+	# Bandwidth+
+	# Numbers
+	# TeamViewer
+	# MacVim
+	# spf13 - vim distribution
+	# Virtualbox
+	# box
+	# Franz chat app
+	# skype
+	# iterm2
+	
