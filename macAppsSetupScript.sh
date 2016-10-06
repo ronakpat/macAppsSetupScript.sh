@@ -34,6 +34,7 @@ brew install mas
 mas install 406056744 	# evernote
 mas install 490461369	# Bandwidth+
 mas install 409203825	# numbers
+mas install 1039600682  # hacker news YC
 
 # Download Applications from web
 wget https://download.teamviewer.com/download/TeamViewer.dmg 	# TeamViewer
